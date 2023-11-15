@@ -1,4 +1,3 @@
-
 # Monarchs As They Migrate
 ### *Project by Clare Egan*
 
@@ -11,14 +10,43 @@ This project idea came to me after attending the Louisville Zoo's "Monarchs and 
 
 
 ## Running the program
-1. Python 3 is required. This project is written using version 3.12.0.  Make sure you have installed that version of Python from their website here
+1. Python 3 is required. This project is written using version 3.12.0.  Make sure you have installed that version of Python from their website [here](https://www.python.org/ftp/python/3.12.0/python-3.12.0-macos11.pkg)
 2. Clone the repo from github, use this code
    ```
-   git clone https://github.com/clareegan/monarchs.git
+   git clone https://github.com/clareegan/Monarch-Butterflies.git
    ```
-4. Setup a virtual environment and activate it.
+3. Set up your working directory.
+4. ```
+   https://github.com/clareegan/monarchs.git
+   ```
+5. Setup a virtual environment.
+
+    On Windows:
+
+   ```
+   python -m venv venv
+   ```
+
+   On macOS and Linux:
+
+   ```
+   python3 -m venv venv
+   ```
+7. Activate the virtual environment
+
+    On Windows:
+
+   ```
+   .\venv\Scripts\activate
+   ```
+
+   On macOS and Linux:
+
+   ```
+   source venv/bin/activate
+   ```
      
-5. To make sure you have all the necessary packages, run
+9. To make sure you have all the necessary packages, run
 ```
 "pip install -r requirements.txt".
 ```
