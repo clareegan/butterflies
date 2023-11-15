@@ -13,11 +13,11 @@ This project idea came to me after attending the Louisville Zoo's "Monarchs and 
 1. Python 3 is required. This project is written using version 3.12.0.  Make sure you have installed that version of Python from their website [here](https://www.python.org/ftp/python/3.12.0/python-3.12.0-macos11.pkg)
 2. Clone the repo from github, use this code
    ```
-   git clone https://github.com/clareegan/Monarch-Butterflies.git
+   git clone https://github.com/clareegan/butterflies.git
    ```
 3. Set up your working directory.
 4. ```
-   https://github.com/clareegan/monarchs.git
+  https://github.com/clareegan/butterflies.git
    ```
 5. Setup a virtual environment.
 
