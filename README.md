@@ -71,8 +71,10 @@ The program can be run directly by running "main.py" from the script folder. You
 
 ## Data Sources
 CSV: 2021 and 2022 Tagging and Mexico Tagging Data https://monarchwatch.org/tagging/
-     Kentucky Live Egg and Milkweed Data https://app.mlmp.org/Results/ChartStateYear?state=KY&year=2023
-     Supplementary Research for context https://datadryad.org/stash/dataset/doi:10.25338/B81S7C
+
+Kentucky Live Egg and Milkweed Data https://app.mlmp.org/Results/ChartStateYear?state=KY&year=2023
+
+Supplementary Research for context https://datadryad.org/stash/dataset/doi:10.25338/B81S7C
      
 
 ## Tableau Visualizations
