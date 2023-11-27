@@ -68,9 +68,10 @@ The program can be run directly by running "main.py" from the script folder. You
 
 ## Data Sources
 CSV: 2021 and 2022 Tagging and Mexico Tagging Data https://monarchwatch.org/tagging/
+     
 
+## Tableau Visualizations
 
-Tableau Visualizations:
 https://public.tableau.com/views/FinalVIZ/LIVEWORK?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
