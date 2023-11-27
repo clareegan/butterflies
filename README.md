@@ -16,23 +16,25 @@ This project idea came to me after attending the Louisville Zoo's "Monarchs and 
    git clone https://github.com/clareegan/butterflies.git
    ```
 3. Set up your working directory.
- ```
+   ```
     https://github.com/clareegan/butterflies.git
    ```
-5. Setup a virtual environment.
+4. Set up a virtual environment.
+
 
     On Windows:
 
-   ```
-   python -m venv venv
-   ```
+      ```
+    python -m venv venv
+    ```
 
-   On macOS and Linux:
+
+      On macOS and Linux:
 
    ```
    python3 -m venv venv
    ```
-7. Activate the virtual environment
+5. Activate the virtual environment
 
     On Windows:
 
@@ -46,10 +48,12 @@ This project idea came to me after attending the Louisville Zoo's "Monarchs and 
    source venv/bin/activate
    ```
      
-9. To make sure you have all the necessary packages, run
-```
-"pip install -r requirements.txt".
-```
+6.  To make sure you have all the necessary packages, run
+    ```
+    "pip install -r requirements.txt".
+      ```
+
+
 The following packages will be required to run the program:
 pandas,
 numpy,
