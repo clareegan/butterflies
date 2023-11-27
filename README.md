@@ -11,6 +11,8 @@ Monarch Butterfly migration has been happening all around you, likely without yo
 ## About this project
 This project idea came to me after attending the Louisville Zoo's "Monarchs and Mimosas" lecture on Monarch Migration, what plants attract the butterflies and what is necessary to create a pollinator garden.
 
+## Review
+As my Tableau visualizations demonstrate, the majority of Monarchs live and migrate in North America.  I was surpised to see that there were millions of Monarchs in other countries, specifically in Australia.  I loved getting to see the amount of butterflies that had been tagged by the Monarch Watch organization that were spotted in both 2021 and 2022.  Because of this project I have started the process of looking for tagged butterflies and milkweed plants myself!
 
 ## Running the program
 1. Python 3 is required. This project is written using version 3.12.0.  Make sure you have installed that version of Python from their website [here](https://www.python.org/ftp/python/3.12.0/python-3.12.0-macos11.pkg)
