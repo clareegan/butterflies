@@ -3,6 +3,9 @@
 
 
 ![tow6opi8f_monarchs_spring2020](https://github.com/clareegan/monarchs/assets/136653618/2455747b-4c4f-4cd9-99f3-018ce37d70f7) </br> 
+
+
+## About the butterflies
 Monarch Butterfly migration has been happening all around you, likely without you even noticing! Their migration is a fascinating natural event where millions of Monarchs go on an incredible journey of up to 3,000 miles! Typically starting in the United States and Canada, Monarchs head to the pine-covered mountains of central Mexico. This awesome annual trip involves different generations of monarchs, dealing with challenges like weather and obstacles to reach their wintering spot, making it a remarkable display that grabs the attention of scientists and nature fans alike.
 
 ## About this project
