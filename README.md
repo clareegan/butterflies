@@ -17,7 +17,7 @@ This project idea came to me after attending the Louisville Zoo's "Monarchs and 
    ```
 3. Set up your working directory.
  ```
-  https://github.com/clareegan/butterflies.git
+    https://github.com/clareegan/butterflies.git
    ```
 5. Setup a virtual environment.
 
