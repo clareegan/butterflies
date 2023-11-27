@@ -79,7 +79,7 @@ Supplementary Research for context https://datadryad.org/stash/dataset/doi:10.25
 
 ## Tableau Visualizations
 
-https://public.tableau.com/views/FinalVIZ/LIVEWORK?:language=en-US&:display_count=n&:origin=viz_share_link
+[Tableau](https://public.tableau.com/views/FinalVIZ/LIVEWORK?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
 
 
